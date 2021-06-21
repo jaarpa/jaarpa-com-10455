@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Sitio chingón
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      Aquí cambipe la indormación del sitio chingón abajo del título principal.
+      ¿Quién necesita dormir?
     actions:
       - label: Learn More
         url: /features
