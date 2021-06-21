@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Sitio chingón
     content: >-
-      Aquí cambipe la indormación del sitio chingón abajo del título principal.
+      Aquí cambié la información del sitio chingón abajo del título principal.
       ¿Quién necesita dormir?
     actions:
       - label: Learn More
