@@ -7,6 +7,7 @@ sections:
     image_alt: App preview
     title: Sitio chingón
     content: >-
+      Ahora también hice un push para forzar al actualización.
       Aquí cambié la información del sitio chingón abajo del título principal.
       ¿Quién necesita dormir?
     actions:
